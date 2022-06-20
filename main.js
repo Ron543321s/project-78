@@ -1,4 +1,10 @@
-var images = ["https://i.postimg.cc/MGn9GJXw/family.jpg","20626704_1771868836186522_3197328356083879350_o", "25152275_10212030640933743_897715202959908127_n" , "12063590_882209675181692_6115592451370112193_n", "10997450_963855156987898_9081018716523700588_o",];
+var images = [
+  "https://i.postimg.cc/MGn9GJXw/family.jpg",
+  "pa.jpg",
+  "maa.jpg" ,
+  "ron.jpg",
+  "ar.jpg"
+];
 var names = ["Fmaily Book","Ashish Kummer Sinha", "Tulike Prashid", "Raunak sinha", "Aarna sinha"];
 var i = 0;
 function update()
